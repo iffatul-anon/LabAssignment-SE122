@@ -15,13 +15,6 @@
 7 8 9 10
 
 5.Write a program in C to make such a pattern like a pyramid with an asterisk.
-   *
-   
-  * *
-  
- * * *
- 
-* * * *
 
 6.Write a program in C to display the n terms of even natural number and their sum.
 
